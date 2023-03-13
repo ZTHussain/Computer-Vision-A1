@@ -16,8 +16,7 @@ In this report, we will be doing Image classification. This will be done in thre
 
 ### Methadology Diagram
 
-![Methodology](https://github.com/ZTHussain/Computer-Vision-A1/blob/0171377446c8a85e080d1258d47b471b6a34c55f/Screenshot%202023-03-13%20070019.png)
-
+![Methodology](https://github.com/ZTHussain/Computer-Vision-A1/blob/2fb472558ef40cc3bdf40ca57d275942301ebafc/images/Screenshot%202023-03-13%20070019.png)
 
 ## Setup
 
@@ -45,8 +44,7 @@ With ORB and K-Nearest Neighbour as a classifier gave a very poor accuracy of 27
 These results show that SVC classifier did great on Objects Dataset with an accuracy of 87\% and Random Forest got 62.5\% accuracy. But on Flowers dataset, it was giving an accuracy of less than 50\% with either of these classifiers and even K-Nearest Neighbours.
 
 
-![Results](https://github.com/ZTHussain/Computer-Vision-A1/blob/03f99e9c0386375166c38d8fef3c2f227f764fe6/fig16.png)
-
+![Results](https://github.com/ZTHussain/Computer-Vision-A1/blob/2fb472558ef40cc3bdf40ca57d275942301ebafc/images/fig16.png)
 
 
 
