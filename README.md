@@ -1,4 +1,4 @@
-# Bag of Visual Words]{Image Feature Detection and Matching Classification
+# Image Feature Detection and Matching Classification
 
 The Bag of Visual Words (BoVW) model is a crucial concept in computer vision for image classification. BoVW is highly scalable and accurate, making it ideal for developing Content-Based Image Retrieval (CBIR) systems. BoVW is also useful for texture classification using textons. This paper aims to explore the underlying principles and techniques of BoVW.
 
